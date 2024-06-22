@@ -74,3 +74,5 @@ O Drawn.io está dentro da pasta `Drawn` do repositório.
 Após seguir esses passos, você estará pronto para explorar o Flor&Cultura e todas as suas funcionalidades encantadoras.
 
 Prepare-se para uma jornada floral extraordinária com o Flor&Cultura! 🌸🌿
+
+Feito por: Ana clara Nogueira e Gustavo Freire
